@@ -2,4 +2,4 @@
 df -h
 cal
 uname -a
-ipconfig
+ifconfig
